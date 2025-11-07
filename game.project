@@ -1,0 +1,10 @@
+
+[script]
+shared_state = 1
+
+[project]
+title = Aurora build menu
+
+[library]
+include_dirs = editor
+
